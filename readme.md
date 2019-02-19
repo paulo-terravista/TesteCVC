@@ -2,7 +2,7 @@
 Segue a resposta dos testes propostos em # Welcome to StackEdit!
 
 ## Resposta do Teste 1
-	A url disponibilizada é a http://localhost:8070/cvc/booking/option/city, são passados os parâmetros abaixo e todos são obrigatórios:
+A url disponibilizada é a http://localhost:8070/cvc/booking/option/city, são passados os parâmetros abaixo e todos são obrigatórios:
 	
 | Parametro      | Formato                    | Obrigatorio |
 |----------------|----------------------------|-------------|
@@ -13,8 +13,9 @@ Segue a resposta dos testes propostos em # Welcome to StackEdit!
 | numberChildren | Número Inteiro             | Sim         |
 
 
-## Resposta do Teste 2
-	A url disponibilizada é a http://localhost:8070/cvc/booking/option/hotel, são passados os parâmetros abaixo e apenas o id é obrigatório;:
+## Resposta do Teste 2 ##
+
+A url disponibilizada é a http://localhost:8070/cvc/booking/option/hotel, são passados os parâmetros abaixo e apenas o id é obrigatório;:
 	
 | Parametro      | Formato                    | Obrigatorio | Default    |
 |----------------|----------------------------|-------------|------------|
